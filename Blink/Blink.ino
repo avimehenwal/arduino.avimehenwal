@@ -31,6 +31,4 @@ void loop() {
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
   Serial.print(digitalRead(led));
   delay(1000);               // wait for a second
-  
-  Serial.println("");      // prints another carriage return
 }
