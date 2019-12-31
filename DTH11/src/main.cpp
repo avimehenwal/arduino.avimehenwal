@@ -7,6 +7,7 @@
 
 #define DHTPIN 2
 #define DHTTYPE DHT11
+int wait = 5000;
 
 // Connect pin 1 (on the left) of the sensor to +5V
 // NOTE: If using a board with 3.3V logic like an Arduino Due connect pin 1
@@ -29,7 +30,7 @@ void setup() {
 
 void loop() {
   // Wait a few seconds between measurements.
-  delay(2000);
+  delay(wait);
 
   float h = dht.readHumidity();
   // Read temperature as Celsius (the default)
