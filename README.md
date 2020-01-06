@@ -9,3 +9,4 @@ Arduino Programming Language
 3. [KY-037 sound sensor](https://datasheet4u.com/datasheet-parts/KY-037-datasheet.php?id=1402047)
    1. Decible meter
 4. Laser Diod
+5. [Servo motor SG-90 5V](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
