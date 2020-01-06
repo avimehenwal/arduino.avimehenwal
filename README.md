@@ -10,3 +10,5 @@ Arduino Programming Language
    1. Decible meter
 4. Laser Diod
 5. [Servo motor SG-90 5V](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
+6. [MQ-135 Gas sensor](https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/resources/SNS-MQ135.pdf)
+7. 
